@@ -1,1 +1,1 @@
-console.log("Hello word");
+console.log("Hello xin chao cac ban word");
